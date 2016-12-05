@@ -1,0 +1,114 @@
+body {
+  background-image: url(../images/treetrunk.jpeg);
+  width: 100%;
+  background-size: cover;
+
+  background-position: center;
+}
+
+header {
+  height: 150px;
+  background-color: black;
+  width: 100%;
+  margin: 0 auto;
+}
+
+h3{
+  float: right;
+  color: white;
+  padding-right: 3%;
+  padding-top: 4%;
+  text-align: center;
+}
+
+header img {
+  clear: both;
+  height: 220px;
+  width: auto;
+}
+
+
+
+.headerbox {
+  margin: 0 auto;
+  width: 100%;
+  height: 150px;
+background-color: rgba(46, 62, 86, 0.6);
+  font-size: 112px;
+  margin-right: 25%;
+  font-family: over the rainbow; cursive;
+}
+.headerbox p{
+    color: white;
+    padding-left: 10%;
+    padding-top: 1%;
+}
+h1, p {
+  text-align: center;
+}
+.music {
+  float: left;
+background-color: rgba(255, 255, 255, 0.6);
+height: auto;
+width: 300px;
+margin: 5%;
+}
+.music p {
+  font-size: 18px;
+  padding: 2%;
+}
+
+.music img {
+  height: 200px;
+  width: 300px;
+  object-position: center;
+
+}
+
+.adventure {
+  float: left;
+  background-color: rgba(255, 255, 255, 0.6);
+  height: auto;
+  width: 300px;
+  margin: 5%;
+}
+
+.adventure p{
+  padding: 2%;
+  font-size: 18px;
+}
+
+.adventure img{
+  height: 200px;
+  width: 300px;
+  object-position: center;
+}
+
+.travel {
+  float:left;
+  background-color: rgba(255, 255, 255, 0.6);
+  height: auto;
+  width: 300px;
+  margin: 5%;
+}
+
+.travel img {
+  height: 200px;
+  width: 300px;
+  object-position: center;
+
+}
+
+.leemur img{
+  height: 200px;
+  width: 300px;
+}
+
+.travel p{
+  padding: 2%;
+  font-size: 18px;
+}
+
+.travel a{
+  text-align: center;
+}
